@@ -11,6 +11,8 @@ TypeScript/React plugin for BigBlueButton using the HTML Plugin SDK. This templa
 - Follow the plugin registration pattern in `src/index.tsx`
 - Use relative imports within the plugin
 - Write tests for new components and functionality
+- Check existing directory structure before creating new directories
+- The boilerplate already has src/, src/components/, src/main/, src/types/, src/utils/ - use them
 
 ## Don't
 
